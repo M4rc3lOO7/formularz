@@ -1,0 +1,113 @@
+button{
+    border: solid;
+    background-color: #e6ab2c;
+    cursor: pointer;
+    margin-top: 5%;
+}
+button::-webkit-button-thumb{
+    cursor: pointer;
+}
+header{
+    background-color: #2e2001;
+    font-family: Trebuchet MS;
+    color: #e6cd19;
+    font-size: 45px;
+    height: 50px;
+    width: 100%;
+    float: center;
+    text-align: center;
+    padding-top: 10px;
+}
+aside{
+    background-color: #2e2001;
+    font-family: Trebuchet MS;
+    color: #e6cd19;
+    text-align: center;
+    height: 80%;
+    min-height: 550px;
+    width: 15%;
+    min-width: 120px;
+    max-width: 195px;
+    float: left;
+    border-right: double 10px #e6ab2c;
+}
+div{
+    float: middle;
+    margin-top: 5%;
+}
+html, body{height: 100%;}
+input[type=text]{
+    border-radius: 5px;
+    border-bottom-color: #EB974D;
+    border-right-color: #EB974D;
+    background-color: whitesmoke;
+}
+select{
+    border-radius: 5px;
+    border-bottom-color: #EB974D;
+    border-right-color: #EB974D;
+    border-top-width: 2px;
+    border-top-color: black;
+    border-left-width: 2px;
+    border-left-color: black;
+    background-color: whitesmoke;
+}
+textarea{
+    border-radius: 5px;
+    border-bottom-color: #EB974D;
+    border-right-color: #EB974D;
+    border-top-width: 2px;
+    border-top-color: black;
+    border-left-width: 2px;
+    border-left-color: black;
+    background-color: whitesmoke;
+}
+input[type=submit]{
+    border-radius: 5px;
+    background-color: olivedrab;
+    color: whitesmoke;
+}
+input[type=reset]{
+    border-radius: 5px;
+    background-color:rgb(177, 57, 57);
+    color: whitesmoke;
+}
+input[type=email]{
+    border-radius: 5px;
+    border-bottom-color: #EB974D;
+    border-right-color: #EB974D;
+    border-top-width: 2px;
+    border-top-color: black;
+    border-left-width: 2px;
+    border-left-color: black;
+    background-color: whitesmoke;
+}
+input[type=search]{
+    border-radius: 5px;
+    border-bottom-color: #EB974D;
+    border-right-color: #EB974D;
+    border-top-width: 2px;
+    border-top-color: black;
+    border-left-width: 2px;
+    border-left-color: black;
+    background-color: whitesmoke;
+}
+input[type=number]{
+    border-radius: 5px;
+    border-bottom-color: #EB974D;
+    border-right-color: #EB974D;
+    border-top-width: 2px;
+    border-top-color: black;
+    border-left-width: 2px;
+    border-left-color: black;
+    background-color: whitesmoke;
+}
+input[type=date]{
+    border-radius: 5px;
+    border-bottom-color: #EB974D;
+    border-right-color: #EB974D;
+    border-top-width: 2px;
+    border-top-color: black;
+    border-left-width: 2px;
+    border-left-color: black;
+    background-color: whitesmoke;
